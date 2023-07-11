@@ -94,3 +94,23 @@
     font-weight: 800;
     text-align: center;
 }
+
+.positive-container{
+    background-image: url("images/watch.png");
+    background-repeat: no-repeat;
+    background-position:center;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin-bottom: 100px;
+
+}
+
+.positive{
+    color: white;
+    margin-bottom: 60px;
+    width: 800px;
+}
+
+/* footer section style css  */
