@@ -114,3 +114,31 @@
 }
 
 /* footer section style css  */
+
+
+.footer-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black;
+    height: 60vh;
+    color: white;
+    
+}
+
+.footer{
+    margin-left: 250px;
+    margin-right: 250px;
+    line-height: 35px;
+
+}
+
+.email-container{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 20px 120px;
+    border-radius: 10px;
+    border: none;
+}
